@@ -43,7 +43,8 @@ This is my **second portfolio project**, a **Power BI dashboard** designed to pr
 
 ## 📸 Screenshots
 
-(https://github.com/Asif26/HR_Insights_Dashborad/blob/main/hr_insights_Action_page.png)
+![Dashboard Screenshot](https://github.com/Asif26/HR_Insights_Dashborad/blob/main/hr_insights_Action_page.png)
+
 
 ---
 
